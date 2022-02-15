@@ -38,7 +38,7 @@ Se poate rula `git push` care va contine modificarile locale si cele de pe githu
 
 ## Pentru a crea un branch nou:
 
-`git checkout -b nume-branch-fara-spatiu` va crea un branch noucu numele nume-branch-fara-spatiu
+`git checkout -b nume-branch-fara-spatiu` va crea un branch nou cu numele nume-branch-fara-spatiu
 
 Acest branch exista doar local si trebuie creat pe github
 
